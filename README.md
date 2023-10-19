@@ -8,9 +8,9 @@
 
 ---
 ### 👦 About Me
-- 👨‍💻 I'm a Physics graduate at Fergusson College(Autonomous), Pune.
+- 👨‍💻 I'm pursuing Masters in Data Science at Fergusson College(Autonomous), Pune.
 
-- 🌱 I’m currently developing and learning **Python, Machine Learning and Data Science tools**
+- 🌱 I’m currently developing and learning **Python, ML, DL, NLP, AI, SQL, Cloud, Data Science tools and the list goes on.....**
 
 - ⚡ Fun fact : **My Git-Hub codes = 30% Me + 30% StackOverflow + 40% Google**
 
