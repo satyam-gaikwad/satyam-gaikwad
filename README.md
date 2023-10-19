@@ -36,6 +36,7 @@
 
 * [NYC taxi data analysis](https://github.com/satyam-gaikwad/wheres-my-taxi)
 * [ML Algorithm Implementation](https://github.com/satyam-gaikwad/machine-learning)
+* [Customer Segmentation](https://github.com/satyam-gaikwad/machine-learning/tree/Customer_segmentation)
 
 #### Internships
 
